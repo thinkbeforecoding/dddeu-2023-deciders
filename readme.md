@@ -1,5 +1,7 @@
 # Aggregate composition: a new view on Aggregates
 
+This code has moved to Codeberg
+
 This is the code of the talk presented at [DDDEu 2023](https://2023.dddeurope.com/) in the EventSourcingLive track.
 
 It starts with the [definition of a decider](./deciders.fsx#L5).
